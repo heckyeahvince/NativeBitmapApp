@@ -29,26 +29,3 @@ distributionUrl=https\://services.gradle.org/distributions/gradle-2.5-all.zip
 ```
 
 
-## Accept
-
-To accept the assignment, click the following URL:
-
-https://classroom.github.com/assignment-invitations/f0c3498a6407e0944fe76bce3b68b15d
-
-## Sample Solution:
-
-https://github.com/melvincabatuan/NativeBitmap
-
-## Submission Procedure with Git: 
-
-```shell
-$ cd /path/to/your/android/app/
-$ git init
-$ git add –all
-$ git commit -m "your message, e.x. Assignment 1 submission"
-$ git remote add origin <Assignment link copied from assignment github, e.x. https://github.com/DeLaSalleUniversity-Manila/secondactivityassignment-melvincabatuan.git>
-$ git push -u origin master
-<then Enter Username and Password>
-```
-
-"*You can't have great software without a great team, and most software teams behave like dysfunctional families.*" -  Jim McCarthy
