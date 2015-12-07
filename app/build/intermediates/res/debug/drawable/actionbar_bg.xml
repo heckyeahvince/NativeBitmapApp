@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap xmlns:android="http://schemas.android.com/apk/res/android"
+    android:src="@drawable/ab_texture_tile"
+    android:tileMode="repeat" /><!-- From: file:/C:/Users/heckyeahvince/Desktop/AndroidStudioWorkplace/NativeBitmap/app/src/main/res/drawable/actionbar_bg.xml -->

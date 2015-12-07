@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\heckyeahvince\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-329ce79f24073ae90063dce32f767d0cf8167d0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\pre-dexed\debug\classes-21b54648a5ba1b816d91af2788d7c47728581f62.jar" />
+    </item>
+    <item
+        jar="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\pre-dexed\debug\classes-035476d1a9ad68a55f6ba5dc2be145e17fe7cdb1.jar" />
+    </item>
+    <item
+        jar="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="C:\Users\heckyeahvince\Desktop\AndroidStudioWorkplace\NativeBitmap\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-e294941299bbf949b4d1d0be490cfe405653f9ff.jar" />
+    </item>
+
+</items>
